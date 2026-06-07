@@ -1,0 +1,496 @@
+[
+  {
+    "districtId": "patna",
+    "districtName": "Patna",
+    "religionData": {
+      "Hindu": 91.7,
+      "Muslim": 7.5,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "nalanda",
+    "districtName": "Nalanda",
+    "religionData": {
+      "Hindu": 92.9,
+      "Muslim": 6.6,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "bhojpur",
+    "districtName": "Bhojpur",
+    "religionData": {
+      "Hindu": 82.7,
+      "Muslim": 16.9,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "rohtas",
+    "districtName": "Rohtas",
+    "religionData": {
+      "Hindu": 89.5,
+      "Muslim": 10.1,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "buxar",
+    "districtName": "Buxar",
+    "religionData": {
+      "Hindu": 82.7,
+      "Muslim": 16.9,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "kaimur",
+    "districtName": "Kaimur",
+    "religionData": {
+      "Hindu": 82.7,
+      "Muslim": 16.9,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "west_champaran",
+    "districtName": "West Champaran",
+    "religionData": {
+      "Hindu": 77.4,
+      "Muslim": 22,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "east_champaran",
+    "districtName": "East Champaran",
+    "religionData": {
+      "Hindu": 80.1,
+      "Muslim": 19.4,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "muzaffarpur",
+    "districtName": "Muzaffarpur",
+    "religionData": {
+      "Hindu": 82.7,
+      "Muslim": 16.9,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "sitamarhi",
+    "districtName": "Sitamarhi",
+    "religionData": {
+      "Hindu": 77,
+      "Muslim": 21.6,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "sheohar",
+    "districtName": "Sheohar",
+    "religionData": {
+      "Hindu": 82.7,
+      "Muslim": 16.9,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "vaishali",
+    "districtName": "Vaishali",
+    "religionData": {
+      "Hindu": 82.7,
+      "Muslim": 16.9,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "saran",
+    "districtName": "Saran",
+    "religionData": {
+      "Hindu": 89.2,
+      "Muslim": 10.3,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "siwan",
+    "districtName": "Siwan",
+    "religionData": {
+      "Hindu": 81.5,
+      "Muslim": 18.3,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "gopalganj",
+    "districtName": "Gopalganj",
+    "religionData": {
+      "Hindu": 82.7,
+      "Muslim": 17,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "darbhanga",
+    "districtName": "Darbhanga",
+    "religionData": {
+      "Hindu": 76.3,
+      "Muslim": 22.7,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "madhubani",
+    "districtName": "Madhubani",
+    "religionData": {
+      "Hindu": 80.8,
+      "Muslim": 18.9,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "samastipur",
+    "districtName": "Samastipur",
+    "religionData": {
+      "Hindu": 88.9,
+      "Muslim": 10.6,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "saharsa",
+    "districtName": "Saharsa",
+    "religionData": {
+      "Hindu": 82.7,
+      "Muslim": 16.9,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "madhepura",
+    "districtName": "Madhepura",
+    "religionData": {
+      "Hindu": 82.7,
+      "Muslim": 16.9,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "supaul",
+    "districtName": "Supaul",
+    "religionData": {
+      "Hindu": 82.7,
+      "Muslim": 16.9,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "purnia",
+    "districtName": "Purnia",
+    "religionData": {
+      "Hindu": 60.9,
+      "Muslim": 38.5,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "katihar",
+    "districtName": "Katihar",
+    "religionData": {
+      "Hindu": 54.5,
+      "Muslim": 44.5,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "araria",
+    "districtName": "Araria",
+    "religionData": {
+      "Hindu": 56.7,
+      "Muslim": 42.9,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "kishanganj",
+    "districtName": "Kishanganj",
+    "religionData": {
+      "Hindu": 31.4,
+      "Muslim": 68,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "bhagalpur",
+    "districtName": "Bhagalpur",
+    "religionData": {
+      "Hindu": 81.3,
+      "Muslim": 17.7,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "banka",
+    "districtName": "Banka",
+    "religionData": {
+      "Hindu": 82.7,
+      "Muslim": 16.9,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "munger",
+    "districtName": "Munger",
+    "religionData": {
+      "Hindu": 82.7,
+      "Muslim": 16.9,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "jamui",
+    "districtName": "Jamui",
+    "religionData": {
+      "Hindu": 82.7,
+      "Muslim": 16.9,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "khagaria",
+    "districtName": "Khagaria",
+    "religionData": {
+      "Hindu": 82.7,
+      "Muslim": 16.9,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "lakhisarai",
+    "districtName": "Lakhisarai",
+    "religionData": {
+      "Hindu": 82.7,
+      "Muslim": 16.9,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "begusarai",
+    "districtName": "Begusarai",
+    "religionData": {
+      "Hindu": 86.2,
+      "Muslim": 13.5,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "sheikhpura",
+    "districtName": "Sheikhpura",
+    "religionData": {
+      "Hindu": 82.7,
+      "Muslim": 16.9,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "gaya",
+    "districtName": "Gaya",
+    "religionData": {
+      "Hindu": 88,
+      "Muslim": 11.4,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "nawada",
+    "districtName": "Nawada",
+    "religionData": {
+      "Hindu": 82.7,
+      "Muslim": 16.9,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "aurangabad",
+    "districtName": "Aurangabad",
+    "religionData": {
+      "Hindu": 82.7,
+      "Muslim": 16.9,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "jehanabad",
+    "districtName": "Jehanabad",
+    "religionData": {
+      "Hindu": 82.7,
+      "Muslim": 16.9,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  },
+  {
+    "districtId": "arwal",
+    "districtName": "Arwal",
+    "religionData": {
+      "Hindu": 82.7,
+      "Muslim": 16.9,
+      "Christian": 0.1,
+      "Sikh": 0,
+      "Buddhist": 0,
+      "Jain": 0,
+      "Other": 0.3
+    }
+  }
+]

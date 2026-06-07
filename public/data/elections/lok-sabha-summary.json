@@ -1,0 +1,203 @@
+{
+  "2014": {
+    "year": 2014,
+    "totalSeats": 40,
+    "results": [
+      {
+        "party": "BJP",
+        "alliance": "NDA",
+        "seats": 22,
+        "voteShare": 29.4
+      },
+      {
+        "party": "LJP",
+        "alliance": "NDA",
+        "seats": 6,
+        "voteShare": 6.4
+      },
+      {
+        "party": "RJD",
+        "alliance": "UPA",
+        "seats": 4,
+        "voteShare": 20.1
+      },
+      {
+        "party": "RLSP",
+        "alliance": "NDA",
+        "seats": 3,
+        "voteShare": 3
+      },
+      {
+        "party": "JDU",
+        "alliance": "Others",
+        "seats": 2,
+        "voteShare": 15.8
+      },
+      {
+        "party": "INC",
+        "alliance": "UPA",
+        "seats": 2,
+        "voteShare": 8.4
+      },
+      {
+        "party": "NCP",
+        "alliance": "UPA",
+        "seats": 1,
+        "voteShare": 1.2
+      },
+      {
+        "party": "Others",
+        "alliance": "Others",
+        "seats": 0,
+        "voteShare": 15.7
+      }
+    ],
+    "allianceSummary": [
+      {
+        "alliance": "NDA",
+        "seats": 31,
+        "voteShare": 38.8
+      },
+      {
+        "alliance": "UPA",
+        "seats": 7,
+        "voteShare": 29.7
+      },
+      {
+        "alliance": "Others",
+        "seats": 2,
+        "voteShare": 31.5
+      }
+    ]
+  },
+  "2019": {
+    "year": 2019,
+    "totalSeats": 40,
+    "results": [
+      {
+        "party": "BJP",
+        "alliance": "NDA",
+        "seats": 17,
+        "voteShare": 23.6
+      },
+      {
+        "party": "JDU",
+        "alliance": "NDA",
+        "seats": 16,
+        "voteShare": 21.8
+      },
+      {
+        "party": "LJP",
+        "alliance": "NDA",
+        "seats": 6,
+        "voteShare": 7.9
+      },
+      {
+        "party": "INC",
+        "alliance": "UPA",
+        "seats": 1,
+        "voteShare": 7.7
+      },
+      {
+        "party": "RJD",
+        "alliance": "UPA",
+        "seats": 0,
+        "voteShare": 15.4
+      },
+      {
+        "party": "Others",
+        "alliance": "Others",
+        "seats": 0,
+        "voteShare": 23.6
+      }
+    ],
+    "allianceSummary": [
+      {
+        "alliance": "NDA",
+        "seats": 39,
+        "voteShare": 53.3
+      },
+      {
+        "alliance": "UPA",
+        "seats": 1,
+        "voteShare": 23.1
+      },
+      {
+        "alliance": "Others",
+        "seats": 0,
+        "voteShare": 23.6
+      }
+    ]
+  },
+  "2024": {
+    "year": 2024,
+    "totalSeats": 40,
+    "results": [
+      {
+        "party": "JDU",
+        "alliance": "NDA",
+        "seats": 12,
+        "voteShare": 18.5
+      },
+      {
+        "party": "BJP",
+        "alliance": "NDA",
+        "seats": 12,
+        "voteShare": 20.5
+      },
+      {
+        "party": "LJP",
+        "alliance": "NDA",
+        "seats": 5,
+        "voteShare": 6.5
+      },
+      {
+        "party": "RJD",
+        "alliance": "INDIA",
+        "seats": 4,
+        "voteShare": 22.1
+      },
+      {
+        "party": "INC",
+        "alliance": "INDIA",
+        "seats": 3,
+        "voteShare": 9.2
+      },
+      {
+        "party": "CPI_ML",
+        "alliance": "INDIA",
+        "seats": 2,
+        "voteShare": 3.5
+      },
+      {
+        "party": "HAM",
+        "alliance": "NDA",
+        "seats": 1,
+        "voteShare": 1.5
+      },
+      {
+        "party": "IND",
+        "alliance": "Others",
+        "seats": 1,
+        "voteShare": 18.2
+      }
+    ],
+    "allianceSummary": [
+      {
+        "alliance": "NDA",
+        "seats": 30,
+        "voteShare": 47
+      },
+      {
+        "alliance": "INDIA",
+        "seats": 9,
+        "voteShare": 34.8
+      },
+      {
+        "alliance": "Others",
+        "seats": 1,
+        "voteShare": 18.2
+      }
+    ]
+  }
+}

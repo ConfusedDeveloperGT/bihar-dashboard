@@ -1,0 +1,329 @@
+{
+  "2010": {
+    "year": 2010,
+    "totalSeats": 243,
+    "results": [
+      {
+        "party": "JDU",
+        "alliance": "NDA",
+        "seats": 115,
+        "voteShare": 22.6
+      },
+      {
+        "party": "BJP",
+        "alliance": "NDA",
+        "seats": 91,
+        "voteShare": 16.5
+      },
+      {
+        "party": "RJD",
+        "alliance": "Others",
+        "seats": 22,
+        "voteShare": 18.8
+      },
+      {
+        "party": "INC",
+        "alliance": "Others",
+        "seats": 4,
+        "voteShare": 8.4
+      },
+      {
+        "party": "LJP",
+        "alliance": "Others",
+        "seats": 3,
+        "voteShare": 6.7
+      },
+      {
+        "party": "CPI",
+        "alliance": "Others",
+        "seats": 1,
+        "voteShare": 1.7
+      },
+      {
+        "party": "JMM",
+        "alliance": "Others",
+        "seats": 1,
+        "voteShare": 0.6
+      },
+      {
+        "party": "IND",
+        "alliance": "Others",
+        "seats": 6,
+        "voteShare": 24.7
+      }
+    ],
+    "allianceSummary": [
+      {
+        "alliance": "NDA",
+        "seats": 206,
+        "voteShare": 39.1
+      },
+      {
+        "alliance": "Others",
+        "seats": 37,
+        "voteShare": 60.9
+      }
+    ]
+  },
+  "2015": {
+    "year": 2015,
+    "totalSeats": 243,
+    "results": [
+      {
+        "party": "RJD",
+        "alliance": "Mahagathbandhan",
+        "seats": 80,
+        "voteShare": 18.4
+      },
+      {
+        "party": "JDU",
+        "alliance": "Mahagathbandhan",
+        "seats": 71,
+        "voteShare": 16.8
+      },
+      {
+        "party": "BJP",
+        "alliance": "NDA",
+        "seats": 53,
+        "voteShare": 24.4
+      },
+      {
+        "party": "INC",
+        "alliance": "Mahagathbandhan",
+        "seats": 27,
+        "voteShare": 6.7
+      },
+      {
+        "party": "CPI_ML",
+        "alliance": "Others",
+        "seats": 3,
+        "voteShare": 1.5
+      },
+      {
+        "party": "LJP",
+        "alliance": "NDA",
+        "seats": 2,
+        "voteShare": 4.8
+      },
+      {
+        "party": "RLSP",
+        "alliance": "NDA",
+        "seats": 2,
+        "voteShare": 2.6
+      },
+      {
+        "party": "HAM",
+        "alliance": "NDA",
+        "seats": 1,
+        "voteShare": 2.3
+      },
+      {
+        "party": "IND",
+        "alliance": "Others",
+        "seats": 4,
+        "voteShare": 22.5
+      }
+    ],
+    "allianceSummary": [
+      {
+        "alliance": "Mahagathbandhan",
+        "seats": 178,
+        "voteShare": 41.9
+      },
+      {
+        "alliance": "NDA",
+        "seats": 58,
+        "voteShare": 34.1
+      },
+      {
+        "alliance": "Others",
+        "seats": 7,
+        "voteShare": 24
+      }
+    ]
+  },
+  "2020": {
+    "year": 2020,
+    "totalSeats": 243,
+    "results": [
+      {
+        "party": "RJD",
+        "alliance": "Mahagathbandhan",
+        "seats": 75,
+        "voteShare": 23.1
+      },
+      {
+        "party": "BJP",
+        "alliance": "NDA",
+        "seats": 74,
+        "voteShare": 19.5
+      },
+      {
+        "party": "JDU",
+        "alliance": "NDA",
+        "seats": 43,
+        "voteShare": 15.4
+      },
+      {
+        "party": "INC",
+        "alliance": "Mahagathbandhan",
+        "seats": 19,
+        "voteShare": 9.5
+      },
+      {
+        "party": "CPI_ML",
+        "alliance": "Mahagathbandhan",
+        "seats": 12,
+        "voteShare": 3.2
+      },
+      {
+        "party": "AIMIM",
+        "alliance": "Others",
+        "seats": 5,
+        "voteShare": 1.2
+      },
+      {
+        "party": "HAM",
+        "alliance": "NDA",
+        "seats": 4,
+        "voteShare": 0.9
+      },
+      {
+        "party": "VIP",
+        "alliance": "NDA",
+        "seats": 4,
+        "voteShare": 5.4
+      },
+      {
+        "party": "CPI",
+        "alliance": "Mahagathbandhan",
+        "seats": 2,
+        "voteShare": 0.8
+      },
+      {
+        "party": "CPM",
+        "alliance": "Mahagathbandhan",
+        "seats": 2,
+        "voteShare": 0.7
+      },
+      {
+        "party": "LJP",
+        "alliance": "Others",
+        "seats": 1,
+        "voteShare": 5.7
+      },
+      {
+        "party": "BSP",
+        "alliance": "Others",
+        "seats": 1,
+        "voteShare": 1.5
+      },
+      {
+        "party": "IND",
+        "alliance": "Others",
+        "seats": 1,
+        "voteShare": 13.1
+      }
+    ],
+    "allianceSummary": [
+      {
+        "alliance": "NDA",
+        "seats": 125,
+        "voteShare": 41.2
+      },
+      {
+        "alliance": "Mahagathbandhan",
+        "seats": 110,
+        "voteShare": 37.3
+      },
+      {
+        "alliance": "Others",
+        "seats": 8,
+        "voteShare": 21.5
+      }
+    ]
+  },
+  "2025": {
+    "year": 2025,
+    "totalSeats": 243,
+    "results": [
+      {
+        "party": "RJD",
+        "alliance": "Mahagathbandhan",
+        "seats": 79,
+        "voteShare": 24.5
+      },
+      {
+        "party": "BJP",
+        "alliance": "NDA",
+        "seats": 78,
+        "voteShare": 23.8
+      },
+      {
+        "party": "JDU",
+        "alliance": "NDA",
+        "seats": 41,
+        "voteShare": 15.2
+      },
+      {
+        "party": "INC",
+        "alliance": "Mahagathbandhan",
+        "seats": 18,
+        "voteShare": 9.1
+      },
+      {
+        "party": "CPI_ML",
+        "alliance": "Mahagathbandhan",
+        "seats": 13,
+        "voteShare": 3.8
+      },
+      {
+        "party": "LJP",
+        "alliance": "NDA",
+        "seats": 6,
+        "voteShare": 6.5
+      },
+      {
+        "party": "HAM",
+        "alliance": "NDA",
+        "seats": 4,
+        "voteShare": 2.1
+      },
+      {
+        "party": "VIP",
+        "alliance": "NDA",
+        "seats": 2,
+        "voteShare": 1.8
+      },
+      {
+        "party": "AIMIM",
+        "alliance": "Others",
+        "seats": 1,
+        "voteShare": 1.2
+      },
+      {
+        "party": "IND",
+        "alliance": "Others",
+        "seats": 1,
+        "voteShare": 12
+      }
+    ],
+    "allianceSummary": [
+      {
+        "alliance": "NDA",
+        "seats": 131,
+        "voteShare": 49.4
+      },
+      {
+        "alliance": "Mahagathbandhan",
+        "seats": 110,
+        "voteShare": 37.4
+      },
+      {
+        "alliance": "Others",
+        "seats": 2,
+        "voteShare": 13.2
+      }
+    ]
+  }
+}

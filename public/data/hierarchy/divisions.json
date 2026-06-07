@@ -1,0 +1,816 @@
+{
+  "divisions": [
+    {
+      "id": "patna_div",
+      "name": "Patna",
+      "districts": [
+        {
+          "id": "patna",
+          "name": "Patna",
+          "population": 5838465,
+          "area": 3202,
+          "blocks": 23,
+          "lokSabha": [
+            "Pataliputra",
+            "Patna Sahib"
+          ],
+          "assemblyConstituencies": [
+            "Mokama",
+            "Barh",
+            "Bakhtiarpur",
+            "Digha",
+            "Bankipur",
+            "Kumhrar",
+            "Patna Sahib",
+            "Fatuha",
+            "Danapur",
+            "Maner",
+            "Phulwari",
+            "Masaurhi",
+            "Paliganj",
+            "Bikram"
+          ],
+          "nameHi": "Patna"
+        },
+        {
+          "id": "nalanda",
+          "name": "Nalanda",
+          "population": 2877653,
+          "area": 2355,
+          "blocks": 20,
+          "lokSabha": [
+            "Nalanda"
+          ],
+          "assemblyConstituencies": [
+            "Asthawan",
+            "Biharsharif",
+            "Rajgir",
+            "Islampur",
+            "Hilsa",
+            "Nalanda",
+            "Harnaut"
+          ],
+          "nameHi": "Nalanda"
+        },
+        {
+          "id": "bhojpur",
+          "name": "Bhojpur",
+          "population": 2728407,
+          "area": 2395,
+          "blocks": 14,
+          "lokSabha": [
+            "Arrah"
+          ],
+          "assemblyConstituencies": [
+            "Sandesh",
+            "Barhara",
+            "Arrah",
+            "Agiaon",
+            "Tarari",
+            "Jagdishpur",
+            "Shahpur"
+          ],
+          "nameHi": "Bhojpur"
+        },
+        {
+          "id": "rohtas",
+          "name": "Rohtas",
+          "population": 2959918,
+          "area": 3851,
+          "blocks": 19,
+          "lokSabha": [
+            "Karakat",
+            "Sasaram"
+          ],
+          "assemblyConstituencies": [
+            "Chenari",
+            "Sasaram",
+            "Kargahar",
+            "Dinara",
+            "Nokha",
+            "Dehri",
+            "Karakat"
+          ],
+          "nameHi": "Rohtas"
+        },
+        {
+          "id": "buxar",
+          "name": "Buxar",
+          "population": 1706352,
+          "area": 1703,
+          "blocks": 11,
+          "lokSabha": [
+            "Buxar"
+          ],
+          "assemblyConstituencies": [
+            "Brahampur",
+            "Buxar",
+            "Dumraon",
+            "Rajpur"
+          ],
+          "nameHi": "Buxar"
+        },
+        {
+          "id": "kaimur",
+          "name": "Kaimur",
+          "population": 1626384,
+          "area": 3332,
+          "blocks": 11,
+          "lokSabha": [
+            "Sasaram"
+          ],
+          "assemblyConstituencies": [
+            "Ramgarh",
+            "Mohania",
+            "Bhabua",
+            "Chainpur"
+          ],
+          "nameHi": "Kaimur"
+        }
+      ],
+      "nameHi": "Patna"
+    },
+    {
+      "id": "tirhut_div",
+      "name": "Tirhut",
+      "districts": [
+        {
+          "id": "west_champaran",
+          "name": "West Champaran",
+          "population": 3935042,
+          "area": 5228,
+          "blocks": 18,
+          "lokSabha": [
+            "Valmiki Nagar",
+            "Paschim Champaran"
+          ],
+          "assemblyConstituencies": [
+            "Valmiki Nagar",
+            "Ramnagar",
+            "Narkatiaganj",
+            "Bagaha",
+            "Lauriya",
+            "Nautan",
+            "Chanpatia",
+            "Bettiah",
+            "Sikta"
+          ],
+          "nameHi": "West Champaran"
+        },
+        {
+          "id": "east_champaran",
+          "name": "East Champaran",
+          "population": 5099371,
+          "area": 3968,
+          "blocks": 27,
+          "lokSabha": [
+            "Purvi Champaran",
+            "Sheohar"
+          ],
+          "assemblyConstituencies": [
+            "Raxaul",
+            "Sugauli",
+            "Narkatia",
+            "Harsidhi",
+            "Govindganj",
+            "Kesaria",
+            "Kalyanpur",
+            "Pipra",
+            "Motihari",
+            "Chiraiya",
+            "Dhaka",
+            "Madhuban"
+          ],
+          "nameHi": "East Champaran"
+        },
+        {
+          "id": "muzaffarpur",
+          "name": "Muzaffarpur",
+          "population": 4801062,
+          "area": 3172,
+          "blocks": 16,
+          "lokSabha": [
+            "Muzaffarpur",
+            "Vaishali"
+          ],
+          "assemblyConstituencies": [
+            "Gaighat",
+            "Aurai",
+            "Minapur",
+            "Bochahan",
+            "Sakra",
+            "Kurhani",
+            "Kanti",
+            "Baruraj",
+            "Paroo",
+            "Sahebganj",
+            "Muzaffarpur"
+          ],
+          "nameHi": "Muzaffarpur"
+        },
+        {
+          "id": "sitamarhi",
+          "name": "Sitamarhi",
+          "population": 3423574,
+          "area": 2294,
+          "blocks": 17,
+          "lokSabha": [
+            "Sitamarhi"
+          ],
+          "assemblyConstituencies": [
+            "Riga",
+            "Bathnaha",
+            "Parihar",
+            "Sursand",
+            "Bajpatti",
+            "Sitamarhi",
+            "Runnisaidpur",
+            "Belsand"
+          ],
+          "nameHi": "Sitamarhi"
+        },
+        {
+          "id": "sheohar",
+          "name": "Sheohar",
+          "population": 656916,
+          "area": 349,
+          "blocks": 5,
+          "lokSabha": [
+            "Sheohar"
+          ],
+          "assemblyConstituencies": [
+            "Sheohar"
+          ],
+          "nameHi": "Sheohar"
+        },
+        {
+          "id": "vaishali",
+          "name": "Vaishali",
+          "population": 3495021,
+          "area": 2036,
+          "blocks": 16,
+          "lokSabha": [
+            "Hajipur",
+            "Vaishali"
+          ],
+          "assemblyConstituencies": [
+            "Hajipur",
+            "Lalganj",
+            "Vaishali",
+            "Mahua",
+            "Raja Pakar",
+            "Raghopur",
+            "Patepur",
+            "Mahanar"
+          ],
+          "nameHi": "Vaishali"
+        }
+      ],
+      "nameHi": "Tirhut"
+    },
+    {
+      "id": "saran_div",
+      "name": "Saran",
+      "districts": [
+        {
+          "id": "saran",
+          "name": "Saran",
+          "population": 3951862,
+          "area": 2641,
+          "blocks": 20,
+          "lokSabha": [
+            "Saran",
+            "Maharajganj"
+          ],
+          "assemblyConstituencies": [
+            "Ekma",
+            "Manjhi",
+            "Baniapur",
+            "Taraiya",
+            "Marhaura",
+            "Chapra",
+            "Garkha",
+            "Amnour",
+            "Parsa",
+            "Sonepur"
+          ],
+          "nameHi": "Saran"
+        },
+        {
+          "id": "siwan",
+          "name": "Siwan",
+          "population": 3330464,
+          "area": 2219,
+          "blocks": 19,
+          "lokSabha": [
+            "Siwan",
+            "Maharajganj"
+          ],
+          "assemblyConstituencies": [
+            "Jiradei",
+            "Darauli",
+            "Raghunathpur",
+            "Daraunda",
+            "Barharia",
+            "Goriakothi",
+            "Maharajganj",
+            "Siwan"
+          ],
+          "nameHi": "Siwan"
+        },
+        {
+          "id": "gopalganj",
+          "name": "Gopalganj",
+          "population": 2562012,
+          "area": 2033,
+          "blocks": 14,
+          "lokSabha": [
+            "Gopalganj"
+          ],
+          "assemblyConstituencies": [
+            "Baikunthpur",
+            "Barauli",
+            "Gopalganj",
+            "Kuchaikote",
+            "Bhorey",
+            "Hathua"
+          ],
+          "nameHi": "Gopalganj"
+        }
+      ],
+      "nameHi": "Saran"
+    },
+    {
+      "id": "darbhanga_div",
+      "name": "Darbhanga",
+      "districts": [
+        {
+          "id": "darbhanga",
+          "name": "Darbhanga",
+          "population": 3937385,
+          "area": 2279,
+          "blocks": 18,
+          "lokSabha": [
+            "Darbhanga"
+          ],
+          "assemblyConstituencies": [
+            "Kusheshwar Asthan",
+            "Gaura Bauram",
+            "Benipur",
+            "Alinagar",
+            "Darbhanga Rural",
+            "Darbhanga",
+            "Hayaghat",
+            "Bahadurpur",
+            "Keoti",
+            "Jale"
+          ],
+          "nameHi": "Darbhanga"
+        },
+        {
+          "id": "madhubani",
+          "name": "Madhubani",
+          "population": 4487379,
+          "area": 3501,
+          "blocks": 21,
+          "lokSabha": [
+            "Madhubani",
+            "Jhanjharpur"
+          ],
+          "assemblyConstituencies": [
+            "Harlakhi",
+            "Benipatti",
+            "Khajauli",
+            "Babubarhi",
+            "Bisfi",
+            "Madhubani",
+            "Rajnagar",
+            "Jhanjharpur",
+            "Phulparas",
+            "Laukaha"
+          ],
+          "nameHi": "Madhubani"
+        },
+        {
+          "id": "samastipur",
+          "name": "Samastipur",
+          "population": 4261566,
+          "area": 2904,
+          "blocks": 20,
+          "lokSabha": [
+            "Samastipur",
+            "Ujiarpur"
+          ],
+          "assemblyConstituencies": [
+            "Kalyanpur",
+            "Warisnagar",
+            "Samastipur",
+            "Ujiarpur",
+            "Morwa",
+            "Sarairanjan",
+            "Mohiuddinnagar",
+            "Bibhutipur",
+            "Rosera",
+            "Hasanpur"
+          ],
+          "nameHi": "Samastipur"
+        }
+      ],
+      "nameHi": "Darbhanga"
+    },
+    {
+      "id": "kosi_div",
+      "name": "Kosi",
+      "districts": [
+        {
+          "id": "saharsa",
+          "name": "Saharsa",
+          "population": 1900661,
+          "area": 1687,
+          "blocks": 10,
+          "lokSabha": [
+            "Khagaria",
+            "Madhepura"
+          ],
+          "assemblyConstituencies": [
+            "Sonbarsha",
+            "Saharsa",
+            "Simri Bakhtiarpur",
+            "Mahishi"
+          ],
+          "nameHi": "Saharsa"
+        },
+        {
+          "id": "madhepura",
+          "name": "Madhepura",
+          "population": 2001762,
+          "area": 1788,
+          "blocks": 13,
+          "lokSabha": [
+            "Madhepura"
+          ],
+          "assemblyConstituencies": [
+            "Alamnagar",
+            "Bihariganj",
+            "Singheshwar",
+            "Madhepura"
+          ],
+          "nameHi": "Madhepura"
+        },
+        {
+          "id": "supaul",
+          "name": "Supaul",
+          "population": 2229076,
+          "area": 2425,
+          "blocks": 11,
+          "lokSabha": [
+            "Supaul"
+          ],
+          "assemblyConstituencies": [
+            "Nirmali",
+            "Pipra",
+            "Supaul",
+            "Triveniganj",
+            "Chhatapur"
+          ],
+          "nameHi": "Supaul"
+        }
+      ],
+      "nameHi": "Kosi"
+    },
+    {
+      "id": "purnia_div",
+      "name": "Purnia",
+      "districts": [
+        {
+          "id": "purnia",
+          "name": "Purnia",
+          "population": 3264619,
+          "area": 3229,
+          "blocks": 14,
+          "lokSabha": [
+            "Purnia"
+          ],
+          "assemblyConstituencies": [
+            "Amour",
+            "Baisi",
+            "Kasba",
+            "Banmankhi",
+            "Rupauli",
+            "Dhamdaha",
+            "Purnia"
+          ],
+          "nameHi": "Purnia"
+        },
+        {
+          "id": "katihar",
+          "name": "Katihar",
+          "population": 3071029,
+          "area": 3057,
+          "blocks": 16,
+          "lokSabha": [
+            "Katihar"
+          ],
+          "assemblyConstituencies": [
+            "Katihar",
+            "Kadwa",
+            "Balrampur",
+            "Pranpur",
+            "Manihari",
+            "Barari",
+            "Korha"
+          ],
+          "nameHi": "Katihar"
+        },
+        {
+          "id": "araria",
+          "name": "Araria",
+          "population": 2811569,
+          "area": 2830,
+          "blocks": 9,
+          "lokSabha": [
+            "Araria"
+          ],
+          "assemblyConstituencies": [
+            "Narpatganj",
+            "Raniganj",
+            "Forbesganj",
+            "Araria",
+            "Jokihat",
+            "Sikti"
+          ],
+          "nameHi": "Araria"
+        },
+        {
+          "id": "kishanganj",
+          "name": "Kishanganj",
+          "population": 1690400,
+          "area": 1884,
+          "blocks": 7,
+          "lokSabha": [
+            "Kishanganj"
+          ],
+          "assemblyConstituencies": [
+            "Bahadurganj",
+            "Thakurganj",
+            "Kishanganj",
+            "Kochadhaman"
+          ],
+          "nameHi": "Kishanganj"
+        }
+      ],
+      "nameHi": "Purnia"
+    },
+    {
+      "id": "bhagalpur_div",
+      "name": "Bhagalpur",
+      "districts": [
+        {
+          "id": "bhagalpur",
+          "name": "Bhagalpur",
+          "population": 3037766,
+          "area": 2569,
+          "blocks": 16,
+          "lokSabha": [
+            "Bhagalpur"
+          ],
+          "assemblyConstituencies": [
+            "Bihpur",
+            "Gopalpur",
+            "Pirpainti",
+            "Kahalgaon",
+            "Bhagalpur",
+            "Sultanganj",
+            "Nathnagar"
+          ],
+          "nameHi": "Bhagalpur"
+        },
+        {
+          "id": "banka",
+          "name": "Banka",
+          "population": 2034763,
+          "area": 3020,
+          "blocks": 11,
+          "lokSabha": [
+            "Banka"
+          ],
+          "assemblyConstituencies": [
+            "Amarpur",
+            "Dhauraiya",
+            "Banka",
+            "Katoria",
+            "Belhar"
+          ],
+          "nameHi": "Banka"
+        }
+      ],
+      "nameHi": "Bhagalpur"
+    },
+    {
+      "id": "munger_div",
+      "name": "Munger",
+      "districts": [
+        {
+          "id": "munger",
+          "name": "Munger",
+          "population": 1367765,
+          "area": 1419,
+          "blocks": 9,
+          "lokSabha": [
+            "Munger"
+          ],
+          "assemblyConstituencies": [
+            "Tarapur",
+            "Jamalpur",
+            "Munger"
+          ],
+          "nameHi": "Munger"
+        },
+        {
+          "id": "jamui",
+          "name": "Jamui",
+          "population": 1760405,
+          "area": 3098,
+          "blocks": 10,
+          "lokSabha": [
+            "Jamui"
+          ],
+          "assemblyConstituencies": [
+            "Sikandra",
+            "Jamui",
+            "Jhajha",
+            "Chakai"
+          ],
+          "nameHi": "Jamui"
+        },
+        {
+          "id": "khagaria",
+          "name": "Khagaria",
+          "population": 1666886,
+          "area": 1486,
+          "blocks": 7,
+          "lokSabha": [
+            "Khagaria"
+          ],
+          "assemblyConstituencies": [
+            "Alauli",
+            "Khagaria",
+            "Beldaur",
+            "Parbatta"
+          ],
+          "nameHi": "Khagaria"
+        },
+        {
+          "id": "lakhisarai",
+          "name": "Lakhisarai",
+          "population": 1000912,
+          "area": 1228,
+          "blocks": 7,
+          "lokSabha": [
+            "Munger"
+          ],
+          "assemblyConstituencies": [
+            "Suryagarha",
+            "Lakhisarai"
+          ],
+          "nameHi": "Lakhisarai"
+        },
+        {
+          "id": "begusarai",
+          "name": "Begusarai",
+          "population": 2970541,
+          "area": 1918,
+          "blocks": 18,
+          "lokSabha": [
+            "Begusarai"
+          ],
+          "assemblyConstituencies": [
+            "Cheria Bariarpur",
+            "Bachhwara",
+            "Teghra",
+            "Matihani",
+            "Sahebpur Kamal",
+            "Begusarai",
+            "Bakhri"
+          ],
+          "nameHi": "Begusarai"
+        },
+        {
+          "id": "sheikhpura",
+          "name": "Sheikhpura",
+          "population": 636342,
+          "area": 689,
+          "blocks": 6,
+          "lokSabha": [
+            "Jamui"
+          ],
+          "assemblyConstituencies": [
+            "Sheikhpura",
+            "Barbigha"
+          ],
+          "nameHi": "Sheikhpura"
+        }
+      ],
+      "nameHi": "Munger"
+    },
+    {
+      "id": "magadh_div",
+      "name": "Magadh",
+      "districts": [
+        {
+          "id": "gaya",
+          "name": "Gaya",
+          "population": 4391418,
+          "area": 4976,
+          "blocks": 24,
+          "lokSabha": [
+            "Gaya"
+          ],
+          "assemblyConstituencies": [
+            "Gurua",
+            "Sherghati",
+            "Imamganj",
+            "Barachatti",
+            "Bodh Gaya",
+            "Gaya Town",
+            "Tikari",
+            "Belaganj",
+            "Atri",
+            "Wazirganj"
+          ],
+          "nameHi": "Gaya"
+        },
+        {
+          "id": "nawada",
+          "name": "Nawada",
+          "population": 2219146,
+          "area": 2494,
+          "blocks": 14,
+          "lokSabha": [
+            "Nawada"
+          ],
+          "assemblyConstituencies": [
+            "Rajauli",
+            "Hisua",
+            "Nawada",
+            "Gobindpur",
+            "Warsaliganj"
+          ],
+          "nameHi": "Nawada"
+        },
+        {
+          "id": "aurangabad",
+          "name": "Aurangabad",
+          "population": 2540073,
+          "area": 3305,
+          "blocks": 11,
+          "lokSabha": [
+            "Aurangabad"
+          ],
+          "assemblyConstituencies": [
+            "Goh",
+            "Obra",
+            "Nabinagar",
+            "Kutumba",
+            "Aurangabad",
+            "Rafiganj"
+          ],
+          "nameHi": "Aurangabad"
+        },
+        {
+          "id": "jehanabad",
+          "name": "Jehanabad",
+          "population": 1125313,
+          "area": 931,
+          "blocks": 7,
+          "lokSabha": [
+            "Jahanabad"
+          ],
+          "assemblyConstituencies": [
+            "Jehanabad",
+            "Ghosi",
+            "Makhdumpur"
+          ],
+          "nameHi": "Jehanabad"
+        },
+        {
+          "id": "arwal",
+          "name": "Arwal",
+          "population": 700843,
+          "area": 638,
+          "blocks": 5,
+          "lokSabha": [
+            "Jahanabad"
+          ],
+          "assemblyConstituencies": [
+            "Arwal",
+            "Kurtha"
+          ],
+          "nameHi": "Arwal"
+        }
+      ],
+      "nameHi": "Magadh"
+    }
+  ],
+  "stateHi": "बिहार"
+}

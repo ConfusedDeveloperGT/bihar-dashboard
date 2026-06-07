@@ -1,0 +1,1297 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "patna",
+        "name": "Patna"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              83.3,
+              27.5
+            ],
+            [
+              83.9125,
+              27.5
+            ],
+            [
+              83.9125,
+              26.8
+            ],
+            [
+              83.3,
+              26.8
+            ],
+            [
+              83.3,
+              27.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "nalanda",
+        "name": "Nalanda"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              83.9125,
+              27.5
+            ],
+            [
+              84.52499999999999,
+              27.5
+            ],
+            [
+              84.52499999999999,
+              26.8
+            ],
+            [
+              83.9125,
+              26.8
+            ],
+            [
+              83.9125,
+              27.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bhojpur",
+        "name": "Bhojpur"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.525,
+              27.5
+            ],
+            [
+              85.1375,
+              27.5
+            ],
+            [
+              85.1375,
+              26.8
+            ],
+            [
+              84.525,
+              26.8
+            ],
+            [
+              84.525,
+              27.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "rohtas",
+        "name": "Rohtas"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1375,
+              27.5
+            ],
+            [
+              85.75,
+              27.5
+            ],
+            [
+              85.75,
+              26.8
+            ],
+            [
+              85.1375,
+              26.8
+            ],
+            [
+              85.1375,
+              27.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "buxar",
+        "name": "Buxar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.75,
+              27.5
+            ],
+            [
+              86.3625,
+              27.5
+            ],
+            [
+              86.3625,
+              26.8
+            ],
+            [
+              85.75,
+              26.8
+            ],
+            [
+              85.75,
+              27.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kaimur",
+        "name": "Kaimur"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.3625,
+              27.5
+            ],
+            [
+              86.975,
+              27.5
+            ],
+            [
+              86.975,
+              26.8
+            ],
+            [
+              86.3625,
+              26.8
+            ],
+            [
+              86.3625,
+              27.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "muzaffarpur",
+        "name": "Muzaffarpur"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.975,
+              27.5
+            ],
+            [
+              87.58749999999999,
+              27.5
+            ],
+            [
+              87.58749999999999,
+              26.8
+            ],
+            [
+              86.975,
+              26.8
+            ],
+            [
+              86.975,
+              27.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "west-champaran",
+        "name": "West Champaran"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.5875,
+              27.5
+            ],
+            [
+              88.2,
+              27.5
+            ],
+            [
+              88.2,
+              26.8
+            ],
+            [
+              87.5875,
+              26.8
+            ],
+            [
+              87.5875,
+              27.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "east-champaran",
+        "name": "East Champaran"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              83.3,
+              26.8
+            ],
+            [
+              83.9125,
+              26.8
+            ],
+            [
+              83.9125,
+              26.1
+            ],
+            [
+              83.3,
+              26.1
+            ],
+            [
+              83.3,
+              26.8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sitamarhi",
+        "name": "Sitamarhi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              83.9125,
+              26.8
+            ],
+            [
+              84.52499999999999,
+              26.8
+            ],
+            [
+              84.52499999999999,
+              26.1
+            ],
+            [
+              83.9125,
+              26.1
+            ],
+            [
+              83.9125,
+              26.8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sheohar",
+        "name": "Sheohar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.525,
+              26.8
+            ],
+            [
+              85.1375,
+              26.8
+            ],
+            [
+              85.1375,
+              26.1
+            ],
+            [
+              84.525,
+              26.1
+            ],
+            [
+              84.525,
+              26.8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "vaishali",
+        "name": "Vaishali"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1375,
+              26.8
+            ],
+            [
+              85.75,
+              26.8
+            ],
+            [
+              85.75,
+              26.1
+            ],
+            [
+              85.1375,
+              26.1
+            ],
+            [
+              85.1375,
+              26.8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "saran",
+        "name": "Saran"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.75,
+              26.8
+            ],
+            [
+              86.3625,
+              26.8
+            ],
+            [
+              86.3625,
+              26.1
+            ],
+            [
+              85.75,
+              26.1
+            ],
+            [
+              85.75,
+              26.8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "siwan",
+        "name": "Siwan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.3625,
+              26.8
+            ],
+            [
+              86.975,
+              26.8
+            ],
+            [
+              86.975,
+              26.1
+            ],
+            [
+              86.3625,
+              26.1
+            ],
+            [
+              86.3625,
+              26.8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "gopalganj",
+        "name": "Gopalganj"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.975,
+              26.8
+            ],
+            [
+              87.58749999999999,
+              26.8
+            ],
+            [
+              87.58749999999999,
+              26.1
+            ],
+            [
+              86.975,
+              26.1
+            ],
+            [
+              86.975,
+              26.8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "darbhanga",
+        "name": "Darbhanga"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.5875,
+              26.8
+            ],
+            [
+              88.2,
+              26.8
+            ],
+            [
+              88.2,
+              26.1
+            ],
+            [
+              87.5875,
+              26.1
+            ],
+            [
+              87.5875,
+              26.8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "madhubani",
+        "name": "Madhubani"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              83.3,
+              26.1
+            ],
+            [
+              83.9125,
+              26.1
+            ],
+            [
+              83.9125,
+              25.400000000000002
+            ],
+            [
+              83.3,
+              25.400000000000002
+            ],
+            [
+              83.3,
+              26.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "samastipur",
+        "name": "Samastipur"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              83.9125,
+              26.1
+            ],
+            [
+              84.52499999999999,
+              26.1
+            ],
+            [
+              84.52499999999999,
+              25.400000000000002
+            ],
+            [
+              83.9125,
+              25.400000000000002
+            ],
+            [
+              83.9125,
+              26.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "saharsa",
+        "name": "Saharsa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.525,
+              26.1
+            ],
+            [
+              85.1375,
+              26.1
+            ],
+            [
+              85.1375,
+              25.400000000000002
+            ],
+            [
+              84.525,
+              25.400000000000002
+            ],
+            [
+              84.525,
+              26.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "madhepura",
+        "name": "Madhepura"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1375,
+              26.1
+            ],
+            [
+              85.75,
+              26.1
+            ],
+            [
+              85.75,
+              25.400000000000002
+            ],
+            [
+              85.1375,
+              25.400000000000002
+            ],
+            [
+              85.1375,
+              26.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "supaul",
+        "name": "Supaul"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.75,
+              26.1
+            ],
+            [
+              86.3625,
+              26.1
+            ],
+            [
+              86.3625,
+              25.400000000000002
+            ],
+            [
+              85.75,
+              25.400000000000002
+            ],
+            [
+              85.75,
+              26.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "purnia",
+        "name": "Purnia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.3625,
+              26.1
+            ],
+            [
+              86.975,
+              26.1
+            ],
+            [
+              86.975,
+              25.400000000000002
+            ],
+            [
+              86.3625,
+              25.400000000000002
+            ],
+            [
+              86.3625,
+              26.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "katihar",
+        "name": "Katihar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.975,
+              26.1
+            ],
+            [
+              87.58749999999999,
+              26.1
+            ],
+            [
+              87.58749999999999,
+              25.400000000000002
+            ],
+            [
+              86.975,
+              25.400000000000002
+            ],
+            [
+              86.975,
+              26.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kishanganj",
+        "name": "Kishanganj"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.5875,
+              26.1
+            ],
+            [
+              88.2,
+              26.1
+            ],
+            [
+              88.2,
+              25.400000000000002
+            ],
+            [
+              87.5875,
+              25.400000000000002
+            ],
+            [
+              87.5875,
+              26.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "araria",
+        "name": "Araria"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              83.3,
+              25.4
+            ],
+            [
+              83.9125,
+              25.4
+            ],
+            [
+              83.9125,
+              24.7
+            ],
+            [
+              83.3,
+              24.7
+            ],
+            [
+              83.3,
+              25.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bhagalpur",
+        "name": "Bhagalpur"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              83.9125,
+              25.4
+            ],
+            [
+              84.52499999999999,
+              25.4
+            ],
+            [
+              84.52499999999999,
+              24.7
+            ],
+            [
+              83.9125,
+              24.7
+            ],
+            [
+              83.9125,
+              25.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "banka",
+        "name": "Banka"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.525,
+              25.4
+            ],
+            [
+              85.1375,
+              25.4
+            ],
+            [
+              85.1375,
+              24.7
+            ],
+            [
+              84.525,
+              24.7
+            ],
+            [
+              84.525,
+              25.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "munger",
+        "name": "Munger"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1375,
+              25.4
+            ],
+            [
+              85.75,
+              25.4
+            ],
+            [
+              85.75,
+              24.7
+            ],
+            [
+              85.1375,
+              24.7
+            ],
+            [
+              85.1375,
+              25.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "jamui",
+        "name": "Jamui"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.75,
+              25.4
+            ],
+            [
+              86.3625,
+              25.4
+            ],
+            [
+              86.3625,
+              24.7
+            ],
+            [
+              85.75,
+              24.7
+            ],
+            [
+              85.75,
+              25.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "khagaria",
+        "name": "Khagaria"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.3625,
+              25.4
+            ],
+            [
+              86.975,
+              25.4
+            ],
+            [
+              86.975,
+              24.7
+            ],
+            [
+              86.3625,
+              24.7
+            ],
+            [
+              86.3625,
+              25.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "lakhisarai",
+        "name": "Lakhisarai"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.975,
+              25.4
+            ],
+            [
+              87.58749999999999,
+              25.4
+            ],
+            [
+              87.58749999999999,
+              24.7
+            ],
+            [
+              86.975,
+              24.7
+            ],
+            [
+              86.975,
+              25.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "begusarai",
+        "name": "Begusarai"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.5875,
+              25.4
+            ],
+            [
+              88.2,
+              25.4
+            ],
+            [
+              88.2,
+              24.7
+            ],
+            [
+              87.5875,
+              24.7
+            ],
+            [
+              87.5875,
+              25.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sheikhpura",
+        "name": "Sheikhpura"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              83.3,
+              24.7
+            ],
+            [
+              83.9125,
+              24.7
+            ],
+            [
+              83.9125,
+              24
+            ],
+            [
+              83.3,
+              24
+            ],
+            [
+              83.3,
+              24.7
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "gaya",
+        "name": "Gaya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              83.9125,
+              24.7
+            ],
+            [
+              84.52499999999999,
+              24.7
+            ],
+            [
+              84.52499999999999,
+              24
+            ],
+            [
+              83.9125,
+              24
+            ],
+            [
+              83.9125,
+              24.7
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "nawada",
+        "name": "Nawada"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.525,
+              24.7
+            ],
+            [
+              85.1375,
+              24.7
+            ],
+            [
+              85.1375,
+              24
+            ],
+            [
+              84.525,
+              24
+            ],
+            [
+              84.525,
+              24.7
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "jehanabad",
+        "name": "Jehanabad"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1375,
+              24.7
+            ],
+            [
+              85.75,
+              24.7
+            ],
+            [
+              85.75,
+              24
+            ],
+            [
+              85.1375,
+              24
+            ],
+            [
+              85.1375,
+              24.7
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "aurangabad",
+        "name": "Aurangabad"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.75,
+              24.7
+            ],
+            [
+              86.3625,
+              24.7
+            ],
+            [
+              86.3625,
+              24
+            ],
+            [
+              85.75,
+              24
+            ],
+            [
+              85.75,
+              24.7
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "arwal",
+        "name": "Arwal"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.3625,
+              24.7
+            ],
+            [
+              86.975,
+              24.7
+            ],
+            [
+              86.975,
+              24
+            ],
+            [
+              86.3625,
+              24
+            ],
+            [
+              86.3625,
+              24.7
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

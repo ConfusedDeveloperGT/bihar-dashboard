@@ -1,0 +1,160 @@
+{
+  "summary": {
+    "totalPopulation": 130725310,
+    "categories": [
+      {
+        "name": "EBC",
+        "percentage": 36.01,
+        "population": 47080514
+      },
+      {
+        "name": "OBC",
+        "percentage": 27.12,
+        "population": 35463936
+      },
+      {
+        "name": "SC",
+        "percentage": 19.65,
+        "population": 25689820
+      },
+      {
+        "name": "General",
+        "percentage": 15.52,
+        "population": 20291679
+      },
+      {
+        "name": "ST",
+        "percentage": 1.68,
+        "population": 2199361
+      }
+    ]
+  },
+  "subCastes": [
+    {
+      "caste": "Yadav",
+      "category": "OBC",
+      "percentage": 14.26,
+      "primaryAlignment": "RJD / Mahagathbandhan"
+    },
+    {
+      "caste": "Kushwaha (Koeri)",
+      "category": "OBC",
+      "percentage": 4.21,
+      "primaryAlignment": "JDU / NDA"
+    },
+    {
+      "caste": "Kurmi",
+      "category": "OBC",
+      "percentage": 2.87,
+      "primaryAlignment": "JDU / NDA"
+    },
+    {
+      "caste": "Bania",
+      "category": "OBC",
+      "percentage": 2.31,
+      "primaryAlignment": "BJP / NDA"
+    },
+    {
+      "caste": "Teli",
+      "category": "EBC",
+      "percentage": 2.81,
+      "primaryAlignment": "BJP / NDA"
+    },
+    {
+      "caste": "Mallah",
+      "category": "EBC",
+      "percentage": 2.6,
+      "primaryAlignment": "VIP / NDA"
+    },
+    {
+      "caste": "Kanu",
+      "category": "EBC",
+      "percentage": 2.21,
+      "primaryAlignment": "Divided"
+    },
+    {
+      "caste": "Dhanuk",
+      "category": "EBC",
+      "percentage": 2.13,
+      "primaryAlignment": "JDU / NDA"
+    },
+    {
+      "caste": "Nonia",
+      "category": "EBC",
+      "percentage": 1.91,
+      "primaryAlignment": "NDA"
+    },
+    {
+      "caste": "Chandravanshi (Kahar)",
+      "category": "EBC",
+      "percentage": 1.64,
+      "primaryAlignment": "JDU / NDA"
+    },
+    {
+      "caste": "Nai",
+      "category": "EBC",
+      "percentage": 1.59,
+      "primaryAlignment": "Divided"
+    },
+    {
+      "caste": "Brahmin",
+      "category": "General",
+      "percentage": 3.65,
+      "primaryAlignment": "BJP / NDA"
+    },
+    {
+      "caste": "Rajput",
+      "category": "General",
+      "percentage": 3.45,
+      "primaryAlignment": "BJP / NDA"
+    },
+    {
+      "caste": "Bhumihar",
+      "category": "General",
+      "percentage": 2.86,
+      "primaryAlignment": "BJP / NDA"
+    },
+    {
+      "caste": "Kayastha",
+      "category": "General",
+      "percentage": 0.6,
+      "primaryAlignment": "BJP / NDA"
+    },
+    {
+      "caste": "Muslim (General/Upper)",
+      "category": "General",
+      "percentage": 4.8,
+      "primaryAlignment": "RJD / Mahagathbandhan"
+    },
+    {
+      "caste": "Paswan (Dusadh)",
+      "category": "SC",
+      "percentage": 5.31,
+      "primaryAlignment": "LJP / NDA"
+    },
+    {
+      "caste": "Chamar (Ravidas)",
+      "category": "SC",
+      "percentage": 5.25,
+      "primaryAlignment": "Divided / Mahagathbandhan"
+    },
+    {
+      "caste": "Musahar",
+      "category": "SC",
+      "percentage": 3.08,
+      "primaryAlignment": "HAM / NDA"
+    },
+    {
+      "caste": "Pasi",
+      "category": "SC",
+      "percentage": 0.98,
+      "primaryAlignment": "Divided"
+    },
+    {
+      "caste": "Dhobi",
+      "category": "SC",
+      "percentage": 0.83,
+      "primaryAlignment": "Divided"
+    }
+  ]
+}

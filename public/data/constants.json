@@ -1,0 +1,77 @@
+{
+  "parties": [
+    {
+      "id": "RJD",
+      "name": "Rashtriya Janata Dal",
+      "color": "#008000"
+    },
+    {
+      "id": "JDU",
+      "name": "Janata Dal (United)",
+      "color": "#003366"
+    },
+    {
+      "id": "BJP",
+      "name": "Bharatiya Janata Party",
+      "color": "#FF9933"
+    },
+    {
+      "id": "INC",
+      "name": "Indian National Congress",
+      "color": "#19AAED"
+    },
+    {
+      "id": "LJP",
+      "name": "Lok Janshakti Party (Ram Vilas)",
+      "color": "#0000FF"
+    },
+    {
+      "id": "HAM",
+      "name": "Hindustani Awam Morcha",
+      "color": "#A52A2A"
+    },
+    {
+      "id": "VIP",
+      "name": "Vikassheel Insaan Party",
+      "color": "#FF0000"
+    },
+    {
+      "id": "CPI_ML",
+      "name": "Communist Party of India (Marxist–Leninist) Liberation",
+      "color": "#FF0000"
+    },
+    {
+      "id": "AIMIM",
+      "name": "All India Majlis-e-Ittehadul Muslimeen",
+      "color": "#006400"
+    },
+    {
+      "id": "RLM",
+      "name": "Rashtriya Lok Morcha",
+      "color": "#FFA500"
+    }
+  ],
+  "alliances": [
+    {
+      "id": "NDA",
+      "name": "National Democratic Alliance",
+      "members": [
+        "BJP",
+        "JDU",
+        "LJP",
+        "HAM",
+        "RLM"
+      ]
+    },
+    {
+      "id": "MGB",
+      "name": "Mahagathbandhan / INDIA",
+      "members": [
+        "RJD",
+        "INC",
+        "CPI_ML",
+        "VIP"
+      ]
+    }
+  ]
+}
